@@ -1,0 +1,33 @@
+[
+    {
+        "Bookname": "Love story",
+        "Author": "Shekar kamul",
+        "Price" : 250,
+        "Availability": true,
+        "Department": "Romance"
+    },
+    {
+        "Bookname": "The Evil",
+        "Author": "Hekthr amul",
+        "Price" : 180,
+        "Availability": false,
+        "Department": "Horror"
+    },
+
+    {
+        "Bookname": "Harry potter",
+        "Author": "Voldemort",
+        "Price" : 580,
+        "Availability": false,
+        "Department": "Fictional"
+    },
+
+    {
+        "Bookname": "sleeping beauty",
+        "Author": "Smula",
+        "Price" : 150,
+        "Availability": true,
+        "Department": "Fictional"
+    }
+
+]
